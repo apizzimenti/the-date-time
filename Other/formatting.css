@@ -1,0 +1,56 @@
+h3 {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    }
+
+body {
+    background: black;
+    font-family: 'Lato';
+    font-weight: bold;
+    letter-spacing: 5px;
+    }
+
+#monthswrapper {
+    margin-top: 50px;
+    text-align: center;
+    width: auto;
+    height: auto;
+    display: none;
+    }
+
+#months, #dates {
+    width: auto;
+    height: auto;
+    display: block;
+    }
+    
+p {
+    font-size: 16px;
+    color: #2A2D2D;
+    }
+    
+.span {
+    margin-left: 0;
+    margin-right: 0;
+    }
+    
+.spam {
+    color: #696969;
+    }
+    
+.active {
+    color: white;
+    }
+    
+#date, #at, #time {
+    color: white;
+    }
+    
+#dates {
+    display: none;
+    }
+    
+span {
+    display: inline-block;
+    }
